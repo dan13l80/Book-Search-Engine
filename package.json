@@ -1,5 +1,5 @@
 {
-  "name": "googlebooks-app",
+  "name": "book-search-engine",
   "version": "1.0.0",
   "description": "",
   "main": "server/server.js",
@@ -10,9 +10,17 @@
     "build": "cd client && npm run build"
   },
   "keywords": [],
-  "author": "",
+  "author": "Daniel",
   "license": "ISC",
   "devDependencies": {
     "concurrently": "^5.1.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dan13l80/Book-Search-Engine.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dan13l80/Book-Search-Engine/issues"
+  },
+  "homepage": "https://github.com/dan13l80/Book-Search-Engine#readme"
 }
