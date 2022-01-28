@@ -1,0 +1,29 @@
+{
+  "name": "book-search-serverside",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "watch": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "Daniel",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^3.6.2",
+    "apollo-server-express": "^3.6.2",
+    "bcrypt": "^5.0.1",
+    "express": "^4.17.2",
+    "graphql": "^15.8.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.13.14"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dan13l80"
+  },
+  "description": ""
+}
